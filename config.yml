@@ -1,5 +1,5 @@
-##############################CONFIG.YML##############################
+# Here are the 2 of the MOTDS, ingame and system ! 
 motd:
   ingame-text: '&9Welcome to the &4server&f! '
   system-text: '&5DEFAULT&f-&cMOTD '
-##############################CONFIG.YML##############################
+UpdateCheck: true
